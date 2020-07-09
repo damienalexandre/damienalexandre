@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello 👋
+
+🇫🇷 and 🇬🇧 speaking.
+
+Go to https://damienalexandre.fr/ for blog post, public speaking, open source and sponsoring 🤟.
 
 <!--
 **damienalexandre/damienalexandre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
