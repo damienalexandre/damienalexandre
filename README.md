@@ -16,6 +16,10 @@ Web developer since 2004, technical director at [JoliCode](https://jolicode.com)
 
 And also NelmioSecurityBundle, Embed, and other PHP/Symfony open source projects.
 
+## 💖 Sponsoring
+
+I sponsor open source projects and the people behind them. If my work has been useful to you, you can [❤️ sponsor me too](https://github.com/sponsors/damienalexandre).
+
 ## 📝 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
