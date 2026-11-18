@@ -19,4 +19,9 @@ And also NelmioSecurityBundle, Embed, and other PHP/Symfony open source projects
 ## 📝 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Piloter un radiateur fil pilote avec Shelly 2PM](https://damienalexandre.fr/post/piloter-un-radiateur-fil-pilote-avec-shelly-2pm)
+- [Mon année 2025](https://damienalexandre.fr/post/mon-annee-2025)
+- [Parler d&#39;HTMX à Symfony Live 2025](https://damienalexandre.fr/post/parler-dhtmx-a-symfony-live-2025)
+- [Mon année 2024](https://damienalexandre.fr/post/mon-annee-2024)
+- [Test : Riese &amp; Müller Multicharger 1 an après](https://damienalexandre.fr/post/test-riese-muller-multicharger-1-an-apres)
 <!-- BLOG-POST-LIST:END -->
