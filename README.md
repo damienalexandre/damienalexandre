@@ -9,14 +9,12 @@ Web developer since 2004, technical director at [JoliCode](https://jolicode.com)
 
 ## Open source
 
-- [JoliTypo](https://github.com/jolicode/JoliTypo) — microtypography fixer for the web (main maintainer)
-- [emoji-search](https://github.com/jolicode/emoji-search) — emoji synonyms to build an emoji-capable search engine (author)
-- [Elastically](https://github.com/jolicode/elastically) — Elastica wrapper to bootstrap Elasticsearch PHP integrations
-- [Slack PHP API](https://github.com/jolicode/slack-php-api) — PHP Slack client based on the official OpenAPI specification
+- [JoliTypo](https://github.com/jolicode/JoliTypo): microtypography fixer for the web
+- [emoji-search](https://github.com/jolicode/emoji-search): emoji synonyms to build an emoji-capable search engine
+- [Elastically](https://github.com/jolicode/elastically): Elastica wrapper to bootstrap Elasticsearch PHP integrations
+- [Slack PHP API](https://github.com/jolicode/slack-php-api): PHP Slack client based on JanePHP
 
-## Contributions
-
-NelmioSecurityBundle, Embed, and other PHP/Symfony open source projects.
+And also NelmioSecurityBundle, Embed, and other PHP/Symfony open source projects.
 
 ## Latest blog posts
 
