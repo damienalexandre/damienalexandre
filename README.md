@@ -1,20 +1,24 @@
-### Hello 👋
+# Damien Alexandre
 
-🇫🇷 and 🇬🇧 speaking.
+Web developer since 2004, technical director at [JoliCode](https://jolicode.com). PHP, Symfony, Elasticsearch, and a bit of everything around the modern web platform.
 
-Go to https://damienalexandre.fr/ for blog post, public speaking, open source and sponsoring 🤟.
+[![Blog](https://img.shields.io/badge/blog-damienalexandre.fr-005baa?style=flat)](https://damienalexandre.fr/)
+[![/dev/null](https://img.shields.io/badge/social-dev-null.sh-1a1b27?style=flat)](https://dev-null.sh/@damienalexandre)
+[![Bluesky](https://img.shields.io/badge/bluesky-damienalexandre.fr-0285FF?style=flat)](https://bsky.app/profile/damienalexandre.fr)
+[![JoliCode](https://img.shields.io/badge/work-JoliCode-1a1b27?style=flat)](https://jolicode.com)
 
-<!--
-**damienalexandre/damienalexandre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Open source
 
-Here are some ideas to get you started:
+- [JoliTypo](https://github.com/jolicode/JoliTypo) — microtypography fixer for the web (main maintainer)
+- [emoji-search](https://github.com/jolicode/emoji-search) — emoji synonyms to build an emoji-capable search engine (author)
+- [Elastically](https://github.com/jolicode/elastically) — Elastica wrapper to bootstrap Elasticsearch PHP integrations
+- [Slack PHP API](https://github.com/jolicode/slack-php-api) — PHP Slack client based on the official OpenAPI specification
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contributions
+
+NelmioSecurityBundle, Embed, and other PHP/Symfony open source projects.
+
+## Latest blog posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
