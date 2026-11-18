@@ -1,9 +1,9 @@
-# Damien Alexandre
+# Damien ALEXANDRE
 
 Web developer since 2004, technical director at [JoliCode](https://jolicode.com). PHP, Symfony, Elasticsearch, and a bit of everything around the modern web platform.
 
 [![Blog](https://img.shields.io/badge/blog-damienalexandre.fr-005baa?style=for-the-badge&logo=rss&logoColor=white)](https://damienalexandre.fr/)<br/>
-[![/dev/null](https://img.shields.io/badge/social-dev--null.sh-1a1b27?style=for-the-badge&logo=git&logoColor=white)](https://dev-null.sh/@damienalexandre)<br/>
+[![/dev/null](https://img.shields.io/badge/dev--null-damienalexandre.fr.sh-1a1b27?style=for-the-badge&logo=git&logoColor=white)](https://dev-null.sh/@damienalexandre)<br/>
 [![Bluesky](https://img.shields.io/badge/bluesky-damienalexandre.fr-0285FF?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/damienalexandre.fr)<br/>
 [![JoliCode](https://img.shields.io/badge/work-JoliCode-FFD502?style=for-the-badge&amp;logoColor=white)](https://jolicode.com)
 
