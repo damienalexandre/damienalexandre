@@ -18,7 +18,7 @@ And also NelmioSecurityBundle, Embed, and other PHP/Symfony open source projects
 
 ## 💖 Sponsoring
 
-I sponsor open source projects and the people behind them. If my work has been useful to you, you can [❤️ sponsor me too](https://github.com/sponsors/damienalexandre).
+I put my money where my dependencies are ❤️ — proudly sponsoring [fabpot](https://github.com/fabpot) (Symfony), [Seldaek](https://github.com/Seldaek) (Composer), [dunglas](https://github.com/dunglas) (API Platform), [sebastianbergmann](https://github.com/sebastianbergmann) (PHPUnit), [derickr](https://github.com/derickr) (Xdebug), [bigskysoftware](https://github.com/bigskysoftware) (htmx), [brendt](https://github.com/brendt), [ondrejmirtes](https://github.com/ondrejmirtes) (PHPStan), [nicolas-grekas](https://github.com/nicolas-grekas), [jrfnl](https://github.com/jrfnl), [SakiTakamachi](https://github.com/SakiTakamachi), [oerdnj](https://github.com/oerdnj), [soyuka](https://github.com/soyuka), [vicrodh](https://github.com/vicrodh), [paulinevos](https://github.com/paulinevos), [composer](https://github.com/composer), [doctrine](https://github.com/doctrine) and [ThePHPF](https://github.com/ThePHPF) — [and many others](https://github.com/damienalexandre?tab=sponsoring).
 
 ## 📝 Latest blog posts
 
